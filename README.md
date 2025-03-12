@@ -41,11 +41,11 @@ Sistema para processamento automatizado de listas de alunos inscritos no PAAE (P
 
 ### 🔹 Planejamento
 - [ ] Definir requisitos detalhados.
-- [ ] Estruturar o projeto e definir pastas e arquivos.
-- [ ] Escolher bibliotecas e dependências necessárias.
+- [x] Estruturar o projeto e definir pastas e arquivos.
+- [x] Escolher bibliotecas e dependências necessárias.
 
 ### 🔹 Implementação
-- [ ] Criar estrutura inicial do projeto.
+- [x] Criar estrutura inicial do projeto.
 - [ ] Implementar automação com Selenium para coleta de dados no SUAP.
 - [ ] Implementar leitura das planilhas de entrada (inscritos e remoção).
 - [ ] Implementar validação dos alunos na lista de remoção.
