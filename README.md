@@ -63,3 +63,8 @@ Sistema para processamento automatizado de listas de alunos inscritos no PAAE (P
 - [ ] Criar documentação do sistema.
 - [ ] Criar guia de uso para o usuário.
 - [ ] Preparar versão final para distribuição.
+
+## 🏗️ Execução
+```bash
+python run.py
+```
